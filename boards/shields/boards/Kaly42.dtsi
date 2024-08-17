@@ -8,7 +8,7 @@
 
 
     default_transform; matrix_transform {
-        compatible = "zmk,matrix-transform"
+        compatible = "zmk,matrix-transform";
         rows = <12>;
         columns = <4>;
 //      | SW01 | SW02  | SW03  | SW04  | SW05  | SW06  |  | SW06  | SW05  | SW04  | SW03  | SW02  | SW01  |
