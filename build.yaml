@@ -19,7 +19,7 @@
 
 include:
   - board: seeeduino_xiao_ble
-    shield: kaly_left
+    shield: kaly_l
     cmake-args: -DZDEVICE_NAME_MAX_LENGTH=128
   - board: seeeduino_xiao_ble
-    shield: kaly_right
+    shield: kaly_r

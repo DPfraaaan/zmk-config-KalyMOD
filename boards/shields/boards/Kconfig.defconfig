@@ -1,6 +1,6 @@
 
 
-if SHIELD_KALY42_LEFT
+if SHIELD_KALY42_L
 
 config ZMK_KEYBOARD_NAME
     default "Kaly42"
@@ -10,7 +10,7 @@ config ZMK_SPLIT_ROLE_CENTRAL
 
 endif
 
-if SHIELD_KALY42_LEFT || SHIELD_KALY42_RIGHT
+if SHIELD_KALY42_L || SHIELD_KALY42_R
 
 config ZMK_SPLIT
     default y

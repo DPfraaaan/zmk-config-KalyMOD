@@ -1,0 +1,11 @@
+file_format: "1"
+id: Kaly42
+name: Kaly42
+type: shield
+url: https://github.com/DPfraaaan/zmk-config-KalyMOD.git
+requires: [seeeduino_xiao_ble]
+features:
+  - keys
+siblings:
+  - kaly_l
+  - kaly_r
