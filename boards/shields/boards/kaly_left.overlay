@@ -1,3 +1,4 @@
+
 #include "Kaly42.dtsi"
 
 &kscan0 {
